@@ -138,7 +138,7 @@ function init() {
     // Set resource path
     let nftName = "MBgroup-LOGOTIP";
     //let nftUrl  = "../resources/nft/" + nftName; // for local test
-    let nftUrl  = "https://followthedarkside.github.io/arjs-image-tracking-sample/resources/nft/" + nftName;
+    let nftUrl  = "https://azimov97.github.io/ar_shoes//resources/nft/" + nftName;
     //let nftUrl  = "https://arjs-cors-proxy.herokuapp.com/https://raw.githubusercontent.com/FollowTheDarkside/arjs-image-tracking-sample/resources/nft/" + nftName;
     //let nftUrl  = "https://arjs-cors-proxy.herokuapp.com/https://rawcdn.githack.com/FollowTheDarkside/arjs-image-tracking-sample/tree/master/resources/nft/" + nftName;
 
